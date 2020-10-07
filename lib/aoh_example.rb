@@ -19,7 +19,7 @@ def assembled_aoh
 end
 
 def literal_aoh
-  aoh_array = [
+  aoh2_array = [
     DON_G,
     JOELLE_VD,
     KATE_G,
