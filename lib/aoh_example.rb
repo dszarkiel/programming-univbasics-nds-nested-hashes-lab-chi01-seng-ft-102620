@@ -26,6 +26,7 @@ def literal_aoh
     PAT_M,
     BRUCE_G
   ]
+  aoh_array
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
 end
